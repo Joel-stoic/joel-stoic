@@ -1,4 +1,4 @@
 ## Hi there 👋
 Author-Joel
 <br>
-html and css
+html and css and javascript
