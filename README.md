@@ -7,7 +7,7 @@ I enjoy working on both the **frontend** and **backend**, bringing ideas to life
 
 ### 🚀 Skills & Technologies
 
-**Frontend:**
+**Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -18,7 +18,7 @@ I enjoy working on both the **frontend** and **backend**, bringing ideas to life
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend:**
+**Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -27,13 +27,12 @@ I enjoy working on both the **frontend** and **backend**, bringing ideas to life
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-**Tools & Platforms:**
+**Tools & Platforms:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
 
 ---
 
@@ -49,9 +48,13 @@ I enjoy working on both the **frontend** and **backend**, bringing ideas to life
 
 ---
 
-### 📌 Currently
-- 💻 **Interning as a Backend Developer** at Throughbits  
-- 🔍 Learning more about **scalable backend architectures** and **real-time systems**
+### 📊 GitHub Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joelstoic/joel-stoic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joelstoic/joel-stoic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Joelstoic/joel-stoic/output/github-snake.svg" />
+</picture>
 
 ---
 
