@@ -6,7 +6,6 @@ I enjoy working on both the **frontend** and **backend**, bringing ideas to life
 ---
 
 ### 🚀 Skills & Technologies
-### 🚀 Skills & Technologies
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
